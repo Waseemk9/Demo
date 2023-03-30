@@ -1,5 +1,5 @@
 /**
- * Basics Java code
+ * Basics Java code for Demo
  * Strings in Java by definition are immutable
  * String are inherently array of characters, but unlike array you can manipulate one character of string in place.
  *
