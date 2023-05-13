@@ -1,5 +1,12 @@
 /**
- * Basics Java code for Duplication Example
+ * Basics Java code for Demo
+ * Strings in Java by definition are immutable
+ * String are inherently array of characters, but unlike array you can manipulate one character of string in place.
+ *
+ * 1.) Add a breakpoint
+ * 2.) debug layout: open any object details
+ * 3.) Add Conditional breakpoint
+ * 4.) Add Exception Breakpoint
  *
  */
 public class ConditionalBreakPoint  {
